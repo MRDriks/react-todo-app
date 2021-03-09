@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,mCACE,4BAA6B,CAC7B,aACF","file":"main.a6c53435.chunk.css","sourcesContent":["input[type=checkbox]:checked + label {\r\n  text-decoration: line-through;\r\n  color: rgb(190, 190, 190);\r\n} "]}
